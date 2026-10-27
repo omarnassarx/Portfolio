@@ -14,17 +14,13 @@ Welcome to my portfolio! I am a Data Analyst who transforms raw data into action
 
 ## 📁 Featured Projects
 
-### 🚀 Sales Performance & Revenue Analytics Dashboard
-* **Tools:** Power BI, Power Query, DAX, Excel
-* **Core Work:** Cleaned 50k+ raw records, designed a Star Schema, wrote 15+ custom DAX measures, and built an interactive dashboard.
-* **Business Value:** Pinpointed a 14% revenue leak in underperforming categories, enabling leadership to optimize pricing strategy.
-* 🔗 **Links:** [View Repository](#) | [Live Interactive Dashboard](#)
-
-### 📈 Supply Chain & Inventory Automation Tool
-* **Tools:** Microsoft Excel (Advanced), Power Query
-* **Core Work:** Automated a daily raw data dump using Power Query and designed an executive summary layout.
-* **Business Value:** Reduced manual data processing time by 8 hours per week and cut stockouts by 22%.
-* 🔗 **Links:** [View Repository](#)
+### 🏦 Client Climate Risk Portfolio Dashboard
+* **Tools:** Power BI Desktop, Excel
+* **Context:** Built in my current role in Bank NXT's Sustainability Department for senior management reporting.
+* **Core Work:** Built a Power BI dashboard on an excel extract of business banking clients (governorate, industry, detailed sector and direct facility). It has a governorate slicer that drives an industry matrix showing client count, share of clients, direct facility amount and share of facilities, with a grand total row. A few KPI cards and a governorate comparison shape map sit alongside it, designed to be clean and executive-friendly.
+* **Quality & Maintenance:** Reconciled the dashboard totals against the Risk department's figures (they matched) and refreshed it consistently.
+* **Business Value:** Gave management a clear view of how the client base and facility exposure are distributed across governorates and industries, and the insights supported decisions by the Sustainability Director.
+* 🔒 **Confidential:** This project uses internal bank data, so no screenshots, data or links can be shared publicly.
 
 ---
 
