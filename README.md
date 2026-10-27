@@ -32,4 +32,4 @@ Welcome to my portfolio! I am a Data Analyst who transforms raw data into action
 
 * **LinkedIn:** [Omar Nassar](https://www.linkedin.com/in/omar-nassar-758772378/)
 * **Email:** [omarnassar772004@gmail.com](omarnassar772004@gmail.com)
-* **Resume:** [Download My Resume](https://go.fliplink.me/view/18C0860D-25F9-45C4-A263-B37F590EA6D9)
+
