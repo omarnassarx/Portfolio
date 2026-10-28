@@ -50,6 +50,22 @@ Welcome to my portfolio! I am a Data Analyst who transforms raw data into action
   * Applications grew steadily through the year, from 2.3K in January to 4.3K in December
 * **Business Value:** Lets lending and risk teams monitor portfolio health, loan performance and risk indicators in one place, and slice by state, grade or loan quality to see where bad loans concentrate.
 * 🔗 **Links:** [Link to interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWZhMjQxYWYtMTBiOS00YzBiLWIxMmYtMDMwZDAwMjE1ZGZmIiwidCI6Ijk2MjVlZWUwLWE5ZGEtNDQ3MS1iMmI0LTYzNjZmNWU3OGEzMiJ9)
+
+* ### 🧭 Egypt Development Compass
+* **Tools:** Power BI, DAX, Data Modelling
+* **Core Work:** Built a 5-page interactive dashboard (Main, Global Overview, Egypt Vs Arab World, Rankings, Insights) on a 4-table data model with 60 DAX measures. It has page navigation buttons and slicers for Income Group, Region, Indicator and Year.
+* **What's Inside:**
+  * **Global Overview:** KPI cards (World Average, Countries, Highest, Lowest), a world map, the top 5 countries and a yearly trend, covering 217 economies.
+  * **Egypt Vs Arab World:** Egypt's yearly trend from 2000 compared with the Arab average, plus a ranking of Arab countries.
+  * **Rankings:** A country table with the top 7 and bottom 7 countries, filterable by income group, region, indicator and year.
+  * **Insights:** Four written takeaways on the findings.
+* **Key Findings (Life Expectancy):**
+  * In 2023, life expectancy ranges from 86.4 years in Monaco to 54.5 in Nigeria, a 31.9-year gap, with a world average of 73.8
+  * Egypt dropped from 71.2 years in 2019 to 69.0 in 2021 during the pandemic, then recovered to 71.6 by 2023
+  * Since 2000, Egypt gained about 4.3 years (67.3 to 71.6) while the Arab average rose about 6 (68 to 74), so Egypt is improving but more slowly than its regional peers
+  * The top 7 countries are all above 84 years and in Europe & Central Asia or East Asia & Pacific, while the bottom 7 are all at 60 or below
+* **Business Value:** Gives policymakers and analysts a way to benchmark Egypt's development against the world and the Arab region, and shows where progress is lagging.
+* 🔗 **Links:** [Link to interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTg5MDNlNmMtNTc1NS00MzU4LWE5ZDMtNzc2ZGFiNTBjN2E2IiwidCI6Ijk2MjVlZWUwLWE5ZGEtNDQ3MS1iMmI0LTYzNjZmNWU3OGEzMiJ9)
 ---
 
 ## 📬 Let's Connect
