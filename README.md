@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-Welcome to my portfolio! I am a Data Analyst who transforms raw data into actionable business intelligence. I handle the entire data lifecycle, data cleaning, automated ETL pipelines, robust data modeling, and executive visualizations to help stakeholders make confident, data-driven decisions.
+I am a Data Analyst who transforms raw data into actionable business intelligence. I handle the entire data lifecycle, data cleaning, automated ETL pipelines, robust data modeling, and executive visualizations to help stakeholders make confident, data-driven decisions.
 
 ---
 
@@ -15,7 +15,7 @@ Welcome to my portfolio! I am a Data Analyst who transforms raw data into action
 ## 📁 Featured Projects
 
 ### 🏦 Client Climate Risk Portfolio Dashboard
-* **Tools:** Power BI Desktop, Excel, DAX, Power Query, Data Cleaning, Data Modelling
+* **Tools:** Power BI, Excel, DAX, Power Query, Data Cleaning, Data Modelling
 * **Context:** Built in my current role in Bank NXT's Sustainability Department for senior management reporting.
 * **Core Work:** Built a Power BI dashboard on an excel extract of business banking clients (governorate, industry, detailed sector and direct facility). It has a governorate slicer that drives an industry matrix showing client count, share of clients, direct facility amount and share of facilities, with a grand total row. A few KPI cards and a governorate comparison shape map sit alongside it, designed to be clean and executive-friendly.
 * **Quality & Maintenance:** Reconciled the dashboard totals against the Risk department's figures (they matched) and refreshed it consistently.
@@ -52,7 +52,7 @@ Welcome to my portfolio! I am a Data Analyst who transforms raw data into action
 * 🔗 **Links:** [Link to interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWZhMjQxYWYtMTBiOS00YzBiLWIxMmYtMDMwZDAwMjE1ZGZmIiwidCI6Ijk2MjVlZWUwLWE5ZGEtNDQ3MS1iMmI0LTYzNjZmNWU3OGEzMiJ9)
 
 * ### 🧭 Egypt Development Compass
-* **Tools:** Power BI, DAX, Data Modelling
+* **Tools:** Power BI, DAX, Data Modelling, Power Query
 * **Core Work:** Built a 5-page interactive dashboard (Main, Global Overview, Egypt Vs Arab World, Rankings, Insights) on a 4-table data model with 60 DAX measures. It has page navigation buttons and slicers for Income Group, Region, Indicator and Year.
 * **What's Inside:**
   * **Global Overview:** KPI cards (World Average, Countries, Highest, Lowest), a world map, the top 5 countries and a yearly trend, covering 217 economies.
